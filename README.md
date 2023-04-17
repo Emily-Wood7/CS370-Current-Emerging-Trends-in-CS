@@ -4,7 +4,7 @@
 
 This project used neural networks, reinforcement learning, and Q-algorithms to create a pathfinding intelligent agent.  It is a pirate that must navigate through a maze with obstacles to reach a treasure at the end.
 
-I was provided with the grid maze environment in the python class TreasureMaze.py.  I was given the class that stored all the episodes (all the states that come in between the initial state and the terminal state) for exploration as GameExperience.py.  TreasureHuntGame.ipynb came with the exploitation information, the neural network model, and the q-training algorithm with pseudocode.  The Q-learning algorithm had to be implemented.
+I was provided with the grid maze environment in the python class TreasureMaze.py.  I was given the class that stored all the episodes (all the states that come in between the initial state and the terminal state) for exploration as GameExperience.py.  TreasureHuntGame.ipynb came with the exploitation information, the neural network model, and the q-training algorithm with pseudocode.  The Q-learning algorithm had to be implemented.  All code is available in the Module 7 folder.
 
 ![pseudocode](https://github.com/Emily-Wood7/CS370-Current-Emerging-Trends-in-CS/blob/29ede83e65fcfcc2c28106a93ab60aaba5714044/Module%207/mod8a.png?raw=true)
 
